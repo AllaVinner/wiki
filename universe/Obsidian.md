@@ -1,8 +1,8 @@
 ---
 tags:
   - wiki
-area: 
-subarea:
+area: application
+subarea: notes
 ---
 # Obsidian
 ## Summary
